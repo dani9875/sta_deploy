@@ -32,7 +32,7 @@ const SimpleInput = (props) => {
         />
       </div>
       <div className="form-actions">
-        <button>Submit</button>
+        <button>Test</button>
       </div>
     </form>
   );
